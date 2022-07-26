@@ -17,6 +17,7 @@ body {
   line-height: 1.6;
   background-color: var(--primary-color);
   color: var(--primary-text-color);
+  border-bottom: 5px solid rgba(0, 0, 0, 0.3);
 }
 
 h1 {
@@ -244,4 +245,7 @@ button:focus,
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
 
+.contact {
+  text-align: center;
+}
 }
