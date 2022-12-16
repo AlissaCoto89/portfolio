@@ -142,7 +142,7 @@ button:focus,
   display: flex;
   width: 100%;
   padding: 20px;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+
 }
 
 
@@ -317,4 +317,8 @@ button:focus,
           animation: 34s cloud-move-reverse infinite alternate linear;
 }
 
+}
+
+.contact { 
+  text-align: center;
 }
