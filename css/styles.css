@@ -27,6 +27,7 @@ h1 {
 h2 {
   font-size: 24px;
   font-weight: var(--h-font-weight);
+  color: #e0218a;
 }
 
 h3 {
@@ -200,7 +201,7 @@ border-radius: 10px;
     padding-right: 20px;
   }
   h1 {
-    font-size: 22px;
+    text-align: center;
   }
 }
 
@@ -254,3 +255,41 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) {
   background-color: #e9ecef;
 }
+
+.case-study {
+  margin: 100px;
+}
+
+.case-study-intro {
+  max-width: auto;
+  margin: 0 auto;
+  text-align: left;
+  
+}
+
+.case-study-image-myflix {
+  float: right;
+  width: 700px;
+  height: 500px;
+  padding: 50px;
+}
+
+.case-study-approach {
+max-width: auto;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.case-study-image-server {
+  float: left;
+  width: 400;
+  height: 250px;
+  padding: 10px;
+}
+
+.case-study-image-client {
+  float: center;
+  padding: 10px;
+}
+
+
