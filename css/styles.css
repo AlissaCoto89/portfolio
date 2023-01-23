@@ -1,11 +1,11 @@
 :root {
   --primary-color: #000000;
   --primary-text-color: #ffffff;
-  --visited-link: #e0218a;
-  --active-link: #f692e3;
-  --primary-button: #e0218a;
+  --visited-link: #8e5ebf;
+  --active-link: #d081f7;
+  --primary-button: #8e5ebf;
   --prim-button-text: #000;
-  --secondary-button: #e0218a;
+  --secondary-button: #8e5ebf;
   --sec-button-text: #fff;
   --h-font-weight: 700;
 }
@@ -21,14 +21,14 @@ body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: var(--h-font-weight);
 }
 
 h2 {
   font-size: 24px;
   font-weight: var(--h-font-weight);
-  color: #e0218a;
+  color: #854eb9;
 }
 
 h3 {
@@ -244,7 +244,7 @@ td {
 }
 
 thead th {
-  background-color: #e0218a;
+  background-color: #8e5ebf;
   color: #fff;
   width: 25%;
 }
