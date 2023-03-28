@@ -23,6 +23,7 @@ body {
 h1 {
   font-size: 32px;
   font-weight: var(--h-font-weight);
+  font-variant: small-caps;
 }
 
 h2 {
